@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings > Security. Click 'Forgot Password' and follow email instructions."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are processed within 5–7 business days after approval."
+  },
+  {
+    "title": "Account Deletion",
+    "content": "Users can permanently delete their account from Settings > Privacy."
+  },
+  {
+    "title": "Subscription Upgrade",
+    "content": "Users can upgrade plans from Billing section inside dashboard."
+  },
+  {
+    "title": "Contact Support",
+    "content": "Support can be contacted via support@example.com or live chat."
+  }
+]
